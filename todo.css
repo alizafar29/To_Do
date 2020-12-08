@@ -1,0 +1,37 @@
+.bgcolor{
+    text-align: center;
+    background-color: #f44336;
+    padding: 5% 0%;
+    color: white;
+}
+
+.bgcolor input{
+    width: 30vw;
+    margin-top: 2%;
+    height: 3vw;
+    padding-left: 1%;
+    margin-right: 0%;
+}
+
+.bgcolor button{
+    width: 10vw;
+    height: 3vw;
+    margin-left: 0%;
+    background-color: #bbb;
+}
+
+.waitingTask{
+    text-align: center;
+}
+
+.completedTask{
+    text-align: center;
+}
+
+#ch{
+    width: 2vw;
+}
+
+.hide{
+    border: none;
+}
